@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33246878/README.md)
 # NYC 311 Noise Complaints and Weather
 
 This was a team project for my Data Warehousing for Analytics class (CIS 4400) at Baruch College.
